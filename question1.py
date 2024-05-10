@@ -1,0 +1,1 @@
+print("Total fuel available for landing:", 100*4, "units")
